@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/32429
     wikipedia: http://en.wikipedia.org/wiki/Adam_Mickiewicz
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27729#Bajki
 gutenberg_issued: '2009-01-07'
 gutenberg_type: Text
 identifiers:
